@@ -1,5 +1,7 @@
 # Grid Triangle 
 
+![Grid Triangle](https://github.com/miketropi/grit-triangle/blob/master/grid-triangle.PNG?raw=true "Grid Triangle")
+
 #### Setup
 ```javascript
 <script src="./dist/grid-triangle.bundle.js"></script>
