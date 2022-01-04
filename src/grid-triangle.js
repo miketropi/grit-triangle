@@ -46,7 +46,7 @@ export default class GridTriangle {
         </div>
       </div>
     </div>`;
-
+ 
     return _t;
   }
 
